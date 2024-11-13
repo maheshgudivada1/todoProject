@@ -1,0 +1,26 @@
+.user-profile {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+input {
+  padding: 8px;
+  margin: 10px;
+  width: 100%;
+}
+
+label {
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+}
